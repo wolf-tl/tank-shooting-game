@@ -1,7 +1,7 @@
 package com.tl.tank_battle3;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class Bomb {
     int x;

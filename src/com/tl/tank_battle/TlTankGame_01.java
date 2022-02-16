@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class TlTankGame_01 extends JFrame {
     MyPanel myPanel = null;

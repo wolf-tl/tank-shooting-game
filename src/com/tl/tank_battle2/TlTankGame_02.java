@@ -3,7 +3,7 @@ package com.tl.tank_battle2;
 import javax.swing.*;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class TlTankGame_02 extends JFrame {
     MyPanel myPanel = null;

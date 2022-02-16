@@ -1,7 +1,7 @@
 package com.tl.tank_battle3;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 //创建一个对象，用于保存上局坦克属性
 public class Node_ {

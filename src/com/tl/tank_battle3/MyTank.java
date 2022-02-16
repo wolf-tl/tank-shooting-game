@@ -3,7 +3,7 @@ package com.tl.tank_battle3;
 import java.util.Vector;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class MyTank extends Tank {
     Shot shot=null;

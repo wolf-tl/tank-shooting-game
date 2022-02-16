@@ -1,7 +1,7 @@
 package com.tl.tank_battle;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class Tank {
     private int x;

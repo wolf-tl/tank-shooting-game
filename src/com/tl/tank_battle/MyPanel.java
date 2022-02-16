@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class MyPanel extends JPanel {//创建面板
     MyTank myTank = null;//定义我的坦克

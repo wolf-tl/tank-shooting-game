@@ -1,7 +1,7 @@
 package com.tl.tank_battle3;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 //用于创建子弹对象和进程
 public class Shot implements Runnable{

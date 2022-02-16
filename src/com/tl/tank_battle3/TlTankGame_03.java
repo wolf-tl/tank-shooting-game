@@ -6,7 +6,7 @@ import java.awt.event.WindowListener;
 import java.util.Scanner;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 /*
 debug:当坦克的方向为左右时，坦克盖是空心的：原因不明，可能是电脑显卡质量低

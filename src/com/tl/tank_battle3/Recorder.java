@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.Vector;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 //用于保存游戏记录，以及读取上局记录
 public class Recorder {

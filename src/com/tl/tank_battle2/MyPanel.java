@@ -9,7 +9,7 @@ import java.awt.event.KeyListener;
 import java.util.Vector;
 
 /**
- * @author 唐亮
+ * @author tl
  */
 public class MyPanel extends JPanel implements KeyListener {//创建面板
     MyTank myTank = null;//定义我的坦克
